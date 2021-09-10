@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "userdefinedexception1", "userdefinedexception1\userdefinedexception1.csproj", "{6220E2F3-09AC-404E-A4C4-7005C9DD333C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6220E2F3-09AC-404E-A4C4-7005C9DD333C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6220E2F3-09AC-404E-A4C4-7005C9DD333C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6220E2F3-09AC-404E-A4C4-7005C9DD333C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6220E2F3-09AC-404E-A4C4-7005C9DD333C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0908D6D4-FCF1-4EA3-9C9D-D8D3AE32B780}
+	EndGlobalSection
+EndGlobal
